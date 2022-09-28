@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Marcin. I work as a Mainframe Specialist in kyndryl (new IBM company). I enjoy programming and have grown passionately in this direction for several years. Especially in Java, JavaScript and React. I am interested in cloud technologies and I am in the process of Azure certification. I love learning new things using mnemonics. I participate in Polish Championship competitions and in the near future I plan to participate in international competitions.
+I am Marcin. I work as a Mainframe Specialist in kyndryl (new IBM company). I enjoy programming (especially in Java, JavaScript and React) and have grown passionately in this direction for several years. I am interested in cloud technologies and I am in the process of Azure certification. I love learning new things using mnemonics. I participate in Polish Championship competitions and in the near future I plan to participate in international competitions.
 Let's stay in touch!
 
 :calling: https://pl.linkedin.com/in/marcin-tyc-13010b17a <br />
