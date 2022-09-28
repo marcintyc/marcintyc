@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I am Marcin. I work as a Mainframe Specialist in kyndryl (new IBM company). I enjoy programming and have grown passionately in this direction for several years. Especially in Java, JavaScript and React. I am interested in cloud technologies and am in the process of Azure certification. I love learning new things using mnemonics. I participate in Polish Championship competitions and in the near future I plan to participate in international competitions.
+Let's stay in touch!
+
+https://pl.linkedin.com/in/marcin-tyc-13010b17a
+:envelope: marcintyc.7@gmail.com
+
+
 <!--
 **marcintyc/marcintyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
